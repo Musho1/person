@@ -1,0 +1,33 @@
+.main{
+    position: relative;
+    left: 0;
+    right: 0;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.mainImg{
+    display: flex;
+    
+}
+.mainImgM{
+    width: 700px;
+    /* background-image: url('https://img5.goodfon.com/wallpaper/nbig/4/88/stena-wall-uzory-patterns-fon-fon.jpg'); */
+
+}
+.imgA{
+    position:absolute;
+    width: 700px;
+}
+.imgB{
+    position: absolute;
+    width: 700px;
+}
+.imgC{
+    position: absolute;
+    width: 700px;
+}
+.ABC{
+    background-image: url('');
+}
